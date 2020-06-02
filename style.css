@@ -1,0 +1,27 @@
+header {
+  color: #a890fe;
+  text-align: center;
+  font-size: 38px;
+}
+nav {
+  font-size: 30px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: #a890fe;
+  font-size: 38px;
+}
+h2 {
+  text-align: center;
+  color: #fca5f1;
+}
+p {
+  text-align: center;
+}
+address {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
